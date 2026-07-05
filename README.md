@@ -1,4 +1,4 @@
-# Hi there, I'm Eydan Vladimir Peña Ulloa 👋
+# Hi there, I'm Eydan Peña 👋
 
 An **Industrial Physics Engineer** specialized in Data Science, Mathematical Modeling, and AI. I build scalable pipelines to solve complex industrial and research problems.
 
