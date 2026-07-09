@@ -9,11 +9,11 @@ I'm an **Engineer** specialized in **Data Science, Mathematical Modeling, and AI
 
 My work combines **Python**, **machine learning**, **geospatial analytics**, and **simulation** to solve applied problems in mobility, sustainability, cybersecurity, environmental monitoring, and physical systems.
 
-* 🔭 Currently working as a **Data Science Research Intern** at the **Sustainable Energy Group (SNRGY), ITESM**
-* 🧠 Interested in **ML systems, geospatial Big Data, simulation, NLP, and applied AI**
-* 🛰️ Experience with vehicle emissions modeling, GPS Big Data, SUHI analysis, data pipelines, and cloud-based ML applications
-* 🛠️ I enjoy turning research problems into reproducible computational tools
-* 📬 Connect with me on [LinkedIn](https://linkedin.com/in/eydanvpu/)
+* Currently working as a **Data Science Research Intern** at the **Sustainable Energy Group (SNRGY), ITESM**
+* Interested in **ML systems, geospatial Big Data, simulation, NLP, and applied AI**
+* Experience with vehicle emissions modeling, GPS Big Data, SUHI analysis, data pipelines, and cloud-based ML applications
+* I enjoy turning research problems into reproducible computational tools
+* Connect with me on [LinkedIn](https://linkedin.com/in/eydanvpu/)
 
 ---
 
@@ -27,7 +27,7 @@ My work combines **Python**, **machine learning**, **geospatial analytics**, and
 
 ## 🧩 Selected Projects
 
-Here is a selection of research and applied development projects I've worked on:
+Here is a selection of research and applied development projects I've worked on. Please note that while I have pinned some of my projects here, others are currently kept in private repositories or developed locally first. If you are interested in any of them, please feel free to reach out!
 
 * **Vehicle Emissions Modeling (SNRGY, ITESM)**: High-resolution emissions estimation for metropolitan mobility planning.
 * **GPS Big Data Framework (SNRGY, ITESM)**: Processed 200M+ GPS records through map-matching and modal classification.
@@ -50,10 +50,10 @@ Here is a selection of research and applied development projects I've worked on:
 
 ## 📌 Current Focus
 
-* 📝 Finalizing two scientific publications focused on sustainable mobility and vehicular emissions modeling at **SNRGY**
-* 🗺️ Exploring advanced route optimization, map-matching, and route completion algorithms
-* 📤 Documenting and migrating my local codebases to GitHub to share my research tools and projects
-* ⚙️ Learning MLOps and DevOps best practices to become a more well-rounded developer
+* Finalizing two scientific publications focused on sustainable mobility and vehicular emissions modeling at **SNRGY**
+* Exploring advanced route optimization, map-matching, and route completion algorithms
+* Documenting and migrating my local codebases to GitHub to share my research tools and projects
+* Learning MLOps and DevOps best practices to become a more well-rounded developer
 
 ---
 
