@@ -58,10 +58,10 @@ Here is a selection of research and applied development projects I've worked on:
 
 ## 📌 Current Focus
 
-* 📝 Drafting two scientific publications focused on sustainable mobility and vehicular emissions modeling at **SNRGY**
+* 📝 Finalizing two scientific publications focused on sustainable mobility and vehicular emissions modeling at **SNRGY**
 * 🗺️ Exploring advanced route optimization, map-matching, and route completion algorithms
 * 📤 Documenting and migrating my local codebases to GitHub to share my research tools and projects
-* 🛰️ Integrating earth observation and satellite telemetry data for climate and urban analytics
+* ⚙️ Learning MLOps and DevOps best practices to become a more well-rounded developer
 
 ---
 
