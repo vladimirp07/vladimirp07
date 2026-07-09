@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-presentation-v4.png" alt="Eydan Peña presenting a vehicle emissions and geospatial analysis project" width="850"/>
+  <img src="assets/profile-presentation-v5.png" alt="Eydan Peña presenting a vehicle emissions and geospatial analysis project" width="850"/>
 </p>
 
 # Hello, I'm Eydan Peña
