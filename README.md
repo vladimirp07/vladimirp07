@@ -31,75 +31,26 @@ I develop ML models for structured and unstructured data, including NLP models f
 
 I build reproducible tools for research and engineering projects, including geospatial data pipelines, satellite-data processing workflows, simulation-based models, and analytical dashboards.
 
----
+## 🧩 Selected Projects
 
-## 🧩 Featured Work
+Here is a selection of research and applied development projects I've worked on:
 
-### Sustainable Energy Group (SNRGY), ITESM
-
-Data science and research work focused on sustainable mobility, emissions modeling, and environmental impact assessment.
-
-* **Vehicle Emissions**: High-resolution vehicular emissions estimation for metropolitan mobility planning under the Strategic Plan 2040.
-* **Massive Events**: GPS Big Data framework processing over 200M records through map-matching, routing, and modal classification to quantify mobility disruptions and environmental impacts.
-* **NLP & Public Safety**: Sentiment analysis models for public safety-related data, achieving an F1-score of 0.87.
-
-### 3U CubeSat Data Pipeline
-
-Led the data science component of a 3U CubeSat mission for Urban Heat Island monitoring, building a geospatial processing pipeline to analyze SUHI anomalies across the Monterrey Metropolitan Area using a 30 m grid.
-
-### Hackathons & Applied ML Projects
-
-* **Hack IDM x SAP**: AI-powered SIEM and MLOps pipeline on SAP HANA and Azure for cybersecurity anomaly detection.
-* **Datathon 2026 – Hey Banco**: ML-based personalization engine for adaptive mobile banking experiences.
-* **NASA International Space Apps Challenge**: Cloud-based ML application combining satellite, ground-sensor, and weather data for air quality forecasting.
-* **Hack FEMSA Ventures**: YOLOv8-based computer vision platform for planogram compliance verification.
+* **Vehicle Emissions Modeling (SNRGY, ITESM)**: High-resolution emissions estimation for metropolitan mobility planning.
+* **GPS Big Data Framework (SNRGY, ITESM)**: Processed 200M+ GPS records through map-matching and modal classification.
+* **3U CubeSat Data Pipeline**: Built a geospatial pipeline for Urban Heat Island monitoring (30m grid).
+* **Cybersecurity SIEM (Hack IDM x SAP)**: AI-powered SIEM & MLOps pipeline on SAP HANA and Azure.
+* **Banking Personalization (Datathon – Hey Banco)**: ML-based adaptive personalization engine.
+* **Air Quality Forecasting (NASA Space Apps)**: Cloud-based ML forecasting using satellite and weather data.
+* **Planogram Compliance (Hack FEMSA)**: YOLOv8 computer vision platform for product placement.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>Data Science & ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Geospatial & Simulation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat-square&logo=googleearth&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SUMO-005F73?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Traffic%20Simulation-333333?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Software & Platforms</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Engineering & Reporting</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square"/>
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+* **Data Science & ML**: ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+* **Geospatial & Simulation**: ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white) ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat-square&logo=googleearth&logoColor=white) ![SUMO](https://img.shields.io/badge/SUMO-005F73?style=flat-square) ![Traffic Simulation](https://img.shields.io/badge/Traffic%20Simulation-333333?style=flat-square)
+* **Software & Platforms**: ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+* **Engineering & Tools**: ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
