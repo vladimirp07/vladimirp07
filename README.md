@@ -5,7 +5,7 @@
 # Hello, I'm Eydan Peña 👋
 ### Industrial Physics Engineer | Data Scientist & AI Developer
 
-I'm an **Industrial Physics Engineer** specialized in **Data Science, Mathematical Modeling, and AI**, focused on building data-driven software applications, simulation-based analytical tools, and scalable ML pipelines for complex real-world systems.
+I'm an **Engineer** specialized in **Data Science, Mathematical Modeling, and AI**, focused on building data-driven software applications, simulation-based analytical tools, and scalable ML pipelines for complex real-world systems.
 
 My work combines **Python**, **machine learning**, **geospatial analytics**, and **simulation** to solve applied problems in mobility, sustainability, cybersecurity, environmental monitoring, and physical systems.
 
@@ -19,17 +19,9 @@ My work combines **Python**, **machine learning**, **geospatial analytics**, and
 
 ## 🚀 What I Build
 
-### 🌎 Mobility, Emissions & Geospatial Intelligence
-
-I work on data-intensive pipelines for urban mobility and environmental modeling, including GPS processing, map-matching, routing, modal classification, traffic simulation, and high-resolution emissions estimation.
-
-### 🤖 Machine Learning & Applied AI
-
-I develop ML models for structured and unstructured data, including NLP models for sentiment and public safety analysis, anomaly detection workflows, and intelligent decision-support systems.
-
-### 🛰️ Scientific & Engineering Software
-
-I build reproducible tools for research and engineering projects, including geospatial data pipelines, satellite-data processing workflows, simulation-based models, and analytical dashboards.
+* **🌎 Mobility, Emissions & Geospatial Intelligence**: I work on data-intensive pipelines for urban mobility and environmental modeling, including GPS processing, map-matching, routing, modal classification, traffic simulation, and high-resolution emissions estimation.
+* **🤖 Machine Learning & Applied AI**: I develop ML models for structured and unstructured data, including NLP models for sentiment and public safety analysis, anomaly detection workflows, and intelligent decision-support systems.
+* **🛰️ Scientific & Engineering Software**: I build reproducible tools for research and engineering projects, including geospatial data pipelines, satellite-data processing workflows, simulation-based models, and analytical dashboards.
 
 ---
 
