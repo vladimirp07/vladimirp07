@@ -60,6 +60,5 @@ Here is a selection of research and applied development projects I've worked on:
 ## 📫 Contact
 
 * LinkedIn: [linkedin.com/in/eydanvpu](https://linkedin.com/in/eydanvpu/)
-* GitHub: [github.com/vladimirp07](https://github.com/vladimirp07)
 * Email: [eydan.vladimir.pena@gmail.com](mailto:eydan.vladimir.pena@gmail.com)
 
