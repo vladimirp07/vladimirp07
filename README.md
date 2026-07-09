@@ -2,8 +2,8 @@
   <img src="assets/profile-presentation-v5.png" alt="Eydan Peña presenting a vehicle emissions and geospatial analysis project" width="850"/>
 </p>
 
-# Hello, I'm Eydan Peña
-
+# Hello, I'm Eydan Peña 🚀
+### Industrial Physics Engineer | Data Scientist & AI Developer
 
 I'm an **Industrial Physics Engineer** specialized in **Data Science, Mathematical Modeling, and AI**, focused on building data-driven software applications, simulation-based analytical tools, and scalable ML pipelines for complex real-world systems.
 
@@ -11,7 +11,7 @@ My work combines **Python**, **machine learning**, **geospatial analytics**, and
 
 * 🔭 Currently working as a **Data Science Research Intern** at the **Sustainable Energy Group (SNRGY), ITESM**
 * 🧠 Interested in **ML systems, geospatial Big Data, simulation, NLP, and applied AI**
-* 🛰️ Experience with vehicle emissions modeling, GPS Big Data, SUHI analysis, CubeSat data pipelines, and cloud-based ML applications
+* 🛰️ Experience with vehicle emissions modeling, GPS Big Data, SUHI analysis, data pipelines, and cloud-based ML applications
 * 🛠️ I enjoy turning research problems into reproducible computational tools
 * 📬 Connect with me on [LinkedIn](https://linkedin.com/in/eydanvpu/)
 
@@ -31,6 +31,8 @@ I develop ML models for structured and unstructured data, including NLP models f
 
 I build reproducible tools for research and engineering projects, including geospatial data pipelines, satellite-data processing workflows, simulation-based models, and analytical dashboards.
 
+---
+
 ## 🧩 Selected Projects
 
 Here is a selection of research and applied development projects I've worked on:
@@ -45,6 +47,15 @@ Here is a selection of research and applied development projects I've worked on:
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vladimirp07&show_icons=true&theme=radical" alt="Eydan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirp07&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Data Science & ML**: ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -56,10 +67,10 @@ Here is a selection of research and applied development projects I've worked on:
 
 ## 📌 Current Focus
 
-* Building scalable data pipelines for mobility and environmental analytics
-* Applying ML and statistical modeling to real-world decision-making systems
-* Developing reproducible research software for geospatial and simulation-based projects
-* Exploring AI systems for cybersecurity, intelligent monitoring, and scientific computing
+* 🚀 Optimizing high-resolution emissions and mobility models at SnRGY
+* 🏗️ Implementing robust data pipelines for geospatial telemetry
+* 🤖 Scaling computer vision model deployment frameworks (YOLOv8)
+* 🛰️ Integrating earth observation data for climate and urban analytics
 
 ---
 
@@ -68,3 +79,4 @@ Here is a selection of research and applied development projects I've worked on:
 * LinkedIn: [linkedin.com/in/eydanvpu](https://linkedin.com/in/eydanvpu/)
 * GitHub: [github.com/vladimirp07](https://github.com/vladimirp07)
 * Email: [eydan.vladimir.pena@gmail.com](mailto:eydan.vladimir.pena@gmail.com)
+
