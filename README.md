@@ -58,10 +58,10 @@ Here is a selection of research and applied development projects I've worked on:
 
 ## 📌 Current Focus
 
-* 🚀 Optimizing high-resolution emissions and mobility models at SnRGY
-* 🏗️ Implementing robust data pipelines for geospatial telemetry
-* 🤖 Scaling computer vision model deployment frameworks (YOLOv8)
-* 🛰️ Integrating earth observation data for climate and urban analytics
+* 📝 Drafting two scientific publications focused on sustainable mobility and vehicular emissions modeling at **SNRGY**
+* 🗺️ Exploring advanced route optimization, map-matching, and route completion algorithms
+* 📤 Documenting and migrating my local codebases to GitHub to share my research tools and projects
+* 🛰️ Integrating earth observation and satellite telemetry data for climate and urban analytics
 
 ---
 
