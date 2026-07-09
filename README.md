@@ -2,7 +2,7 @@
   <img src="assets/profile-presentation-v5.png" alt="Eydan Peña presenting a vehicle emissions and geospatial analysis project" width="850"/>
 </p>
 
-# Hello, I'm Eydan Peña 🚀
+# Hello, I'm Eydan Peña 👋
 ### Industrial Physics Engineer | Data Scientist & AI Developer
 
 I'm an **Industrial Physics Engineer** specialized in **Data Science, Mathematical Modeling, and AI**, focused on building data-driven software applications, simulation-based analytical tools, and scalable ML pipelines for complex real-world systems.
@@ -44,15 +44,6 @@ Here is a selection of research and applied development projects I've worked on:
 * **Banking Personalization (Datathon – Hey Banco)**: ML-based adaptive personalization engine.
 * **Air Quality Forecasting (NASA Space Apps)**: Cloud-based ML forecasting using satellite and weather data.
 * **Planogram Compliance (Hack FEMSA)**: YOLOv8 computer vision platform for product placement.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladimirp07&show_icons=true&theme=radical" alt="Eydan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirp07&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
 
 ---
 
