@@ -1,5 +1,9 @@
 # Hello, I'm Eydan Peña
 
+<p align="center">
+  <img src="assets/profile-presentation.jpg" alt="Eydan Peña presenting a vehicle emissions and geospatial analysis project" width="850"/>
+</p>
+
 I'm an **Industrial Physics Engineer** specialized in **Data Science, Mathematical Modeling, and AI**, focused on building data-driven software applications, simulation-based analytical tools, and scalable ML pipelines for complex real-world systems.
 
 My work combines **Python**, **machine learning**, **geospatial analytics**, and **simulation** to solve applied problems in mobility, sustainability, cybersecurity, environmental monitoring, and physical systems.
